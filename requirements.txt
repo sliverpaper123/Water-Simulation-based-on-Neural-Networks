@@ -1,0 +1,17 @@
+# Deep Learning
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Visualization
+matplotlib>=3.3.0
+mpl_toolkits.mplot3d  # Part of matplotlib
+
+# Numerical Computing
+numpy>=1.19.0
+
+# Animation
+ffmpeg-python>=0.2.0  # For saving animations
+
+# Optional: CUDA toolkit for GPU support
+# Note: CUDA version should match your PyTorch installation
+# You may need to install CUDA separately from: https://developer.nvidia.com/cuda-toolkit
