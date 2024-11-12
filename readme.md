@@ -2,8 +2,6 @@
 
 An advanced water surface simulation using deep learning and PyTorch. This project combines neural networks with classical wave equations to create realistic water wave animations.
 
-![Water Simulation Example](demo.gif)
-
 ## 🌊 Overview
 
 This project implements a neural network-based water simulation that:
@@ -34,8 +32,8 @@ This project implements a neural network-based water simulation that:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neural-water-simulation.git
-cd neural-water-simulation
+git clone https://github.com//sliverpaper123/Water-Simulation-based-on-Neural-Networks.git
+cd Water-Simulation-based-on-Neural-Networks
 ```
 
 2. Install required packages:
